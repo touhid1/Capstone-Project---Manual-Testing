@@ -98,7 +98,7 @@ If any issues were found:
   - Linked Test Case ID
 
 If no bugs were found:
-A statement was included confirming successful execution.
+A statement confirming successful execution was included.
 
 ---
 
@@ -110,7 +110,7 @@ Final report includes:
 - Test Cases
 - Execution Results
 - Bug Reports (if any)
-- TestRail screenshots / export (optional)
+- TestRail screenshots/export (optional)
 
 ---
 
@@ -123,16 +123,7 @@ Final report includes:
 | 5–6 | Execute tests in TestRail |
 | 7 | Final documentation & bug logging |
 
----
 
-# 📊 Evaluation Criteria
-
-| Area | Marks |
-|------|-------|
-| Test Cases | 70 |
-| Test Execution | 50 |
-| Documentation | 30 |
-| Bug Logging | 50 |
 
 ---
 
